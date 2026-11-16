@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hydrotylerking.hotsprings",
+      "sha256_cert_fingerprints": [
+        "28:A0:19:F7:02:04:A3:12:05:E1:D6:95:2F:C5:E4:3C:97:48:EF:16:82:AA:BC:6F:0F:EC:51:F9:68:C7:2C:E3"
+      ]
+    }
+  }
+]
